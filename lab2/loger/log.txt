@@ -1,0 +1,24 @@
+function:	<function testclass.test at 0x1012cfe18>
+args:		(1, 2)
+kwargs:		{}
+result:		5
+function:	<function testclass.test at 0x1012cfe18>
+args:		(3, 1)
+kwargs:		{}
+result:		5
+function:	<function testclass.test at 0x1012cfe18>
+args:		(4, 2)
+kwargs:		{}
+result:		8
+function:	<function testclass.test at 0x1012cfe18>
+args:		(2, 8)
+kwargs:		{}
+result:		18
+function:	<function testclass.__str__ at 0x1012cff28>
+args:		()
+kwargs:		{}
+result:		test
+function:	<function testclass.my at 0x1012cfea0>
+args:		(3, 2)
+kwargs:		{}
+result:		-1
